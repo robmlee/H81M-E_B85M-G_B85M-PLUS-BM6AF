@@ -1,14 +1,14 @@
 # 讓 H81M-E/B85M-G/B85M-PLUS-BM6AF 主機板可以使用 i5-4xxx or i7-4xxx
 For some Asus i3-4xxx mb can not boot while upgrade CPU to i5-4xxx or i7-4xxx, here is the way to do the trick.
 
-- 1. 用可以開機的 CPU，進行安裝 Win10 (或 Win7)
+- 1. 用可以開機的 CPU，進行安裝 Win10 (或 Win7) <br><br>
 
 - 2. 下載三個檔案，並解壓縮。
   - 2-1. BIOS_updater_for_New_4th_Gen_Intel_Core_Processors.zip (或從 Asus 官網的 H81M-E for **Win7** 驅動程式及工具程式/BIOS公用程式 [自行下載](https://www.asus.com/tw/supportonly/h81me/helpdesk_download/) ) 
   - 2-2. H81M-E_B85M-G_B85M-PLUS-BM6AF.zip (或是從 Asus 官網自行下載各 MB 的最後一版 BIOS 檔)
-  - 2-3. 從 Asus 官網的 H81M-E for **Win7** 驅動程式及工具程式/晶片組，下載 [Management Engine Interface V9.5.15.1730 for Windows Win7 64bit & Win8 64bit & Win8.1 64bit---(WHQL)](https://www.asus.com/tw/supportonly/h81me/helpdesk_download/)
+  - 2-3. 從 Asus 官網的 H81M-E for **Win7** 驅動程式及工具程式/晶片組，下載 [Management Engine Interface V9.5.15.1730 for Windows Win7 64bit & Win8 64bit & Win8.1 64bit---(WHQL)](https://www.asus.com/tw/supportonly/h81me/helpdesk_download/) <br><br>
 
-- 3. 安裝 ME 更新工具 MEI_Win7-8-8-1_VER95151730 (只能是這個版本，其他版都無法正常運作。  The only version that works! )
+- 3. 安裝 ME 更新工具 MEI_Win7-8-8-1_VER95151730 (只能是這個版本，其他版都無法正常運作。  The only version that works!) <br><br>
 
 - 4. 利用 BIOS_updater_for_New_4th_Gen_Intel_Core_Processors 內的 update.exe 安裝將以下 bios 安裝一次： <br>
   - 3-1. H81M-E 主機板，安裝 H81M-E-ASUS-3602.CAP <br>

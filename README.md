@@ -1,6 +1,9 @@
 # 讓 H81M-E/B85M-G/B85M-PLUS-BM6AF 主機板可以使用 i5-4xxx or i7-4xxx
 For some Asus i3-4xxx mb can not boot while upgrade CPU to i5-4xxx or i7-4xxx, here is the way to do the trick.
 
+### 注意：本網站內容僅供參考，不保證其準確性與完整性。使用者應自行承擔使用本網站資訊的風險，我們不對任何直接或間接的損失負責。<br><br>
+
+## A. 步驟說明:
 - 1. 用可以開機的 CPU，進行安裝 Win10 (或 Win7) <br><br>
 
 - 2. 下載三個檔案，並解壓縮。
@@ -16,3 +19,12 @@ For some Asus i3-4xxx mb can not boot while upgrade CPU to i5-4xxx or i7-4xxx, h
   - 3-3. B85M-PLUS-BM6AF 主機板，安裝 B85M-PLUS-ASUS-BM6AF-2001.CAP <br>
   
   安裝過程，就會順便將 Data.BIN 這個檔，更新到 MB 上，讓 MB 認識 i5-4460 與 i7-4790 的資料檔。
+<br><br>
+
+## B. 特別說明(含免責聲明)：
+- 本處所提供的檔案，都是下載自 Asus 官網，
+- 適用範圍：本內容僅供參考，不構成專業建議。
+- 資訊準確性：我們不保證資訊的準確、完整或可靠性，使用者需自行判斷。
+- 風險自負：使用本網站資訊所產生的任何損失或損害，由使用者自行承擔。
+- 責任限制：不對因使用網站或連結網站內容造成的任何損失負責。
+

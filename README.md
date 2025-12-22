@@ -1,4 +1,4 @@
-# 讓 H81M-E/B85M-G/B85M-PLUS-BM6AF 主機板可以升級使用 i5-4xxx or i7-4xxx CPU
+# 讓 ASUS H81M-E/B85M-G/B85M-PLUS-BM6AF 主機板，可以升級使用 i5-4xxx or i7-4xxx CPU
 **For some Asus i3-4xxx mb can not boot while upgrade CPU to i5-4xxx or i7-4xxx, here is the way to do the trick.**
 
 #### 注意：本網站內容僅供參考，不保證其準確性與完整性。使用者應自行承擔使用本網站資訊的風險，我們不對任何直接或間接的損失負責。<br><br>
